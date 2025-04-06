@@ -7,3 +7,6 @@
 [submodule "src/ros_pose"]
 	path = src/ros_pose
 	url = git@github.com:ssyximmlove/ros_pose.git
+[submodule "src/ros_robot_localization"]
+	path = src/ros_robot_localization
+	url = git@github.com:ssyximmlove/ros_robot_localization.git
