@@ -1,0 +1,9 @@
+[submodule "src/ros_imu"]
+	path = src/ros_imu
+	url = git@github.com:ssyximmlove/ros_imu.git
+[submodule "src/ros_pose"]
+	path = src/ros_pose
+	url = git@github.com:ssyximmlove/ros_pose.git
+[submodule "src/ros_lidar"]
+	path = src/ros_lidar
+	url = git@github.com:ssyximmlove/ros_lidar.git
